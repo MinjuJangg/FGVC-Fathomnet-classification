@@ -1,4 +1,5 @@
-# Solution to the CVPR'2025 FGVC Challenge
+
+# Solution to the CVPR'2025 FGVC Challenge 1st👑
 This repository provides the solution(code and checkpoint) of the CVPR'2025 FathomNet-FGVC challenge.
 [[FathomNet 2025 @ CVPR-FGVC]](https://www.kaggle.com/competitions/fathomnet-2025/overview). 
 
